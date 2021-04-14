@@ -1,0 +1,6 @@
+com.example.demo
+com.example.demo.entity
+com.example.demo.exceptions
+com.example.demo.repositories
+com.example.demo.service
+com.example.demo.web
