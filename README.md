@@ -5,3 +5,6 @@ This project allows us to create,update,delete and display a user when creating 
 json format to create a user in Postman or other http request testers:
 
 "firstName" :"Marco", "lastName" :"polo", "password":"marcopolo", "birthDate":"03/06/2000", "location": "france"
+
+run : mvn spring-boot:run
+
