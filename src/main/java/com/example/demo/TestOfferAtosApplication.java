@@ -20,14 +20,14 @@ public class TestOfferAtosApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TestOfferAtosApplication.class, args);
 		
-		
-		User user1= null;
+		//tester les exceptions 
+		/*User user1= null;
 		try {
 			user1 = new User(null,"yoyo","yaya","yiyi","19/01/2010","maroc");
 		}catch(InvalideAgeException|BadLocationException f) {
 			System.out.println(f);
 		}
-		
+		*/
 	}
 
 }
